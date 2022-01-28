@@ -7,7 +7,6 @@ It calculates nearly everything conceivable for a thin-walled section in the lin
 
 A hardcoded example and some example files are included.
 
-ThinSecBeam is programmed in Python 3 and uses NumPy & Matplotlib as principal dependencies. Currently (as for Dec 2021) the Spanish and English versions of
-the interface are available but the english version of the manual isn't ready yet. Coming soon.
+ThinSecBeam is programmed in Python 3 and uses NumPy & Matplotlib as principal dependencies. Currently (as for Jan 2022) the Spanish and English versions of both the user guide and the interface are available. 
 
 Enjoy !!
