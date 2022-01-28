@@ -1,0 +1,19 @@
+el 03 con tramos rectos a lo bruto
+ 
+ n_ptos  n_tramos   p_base
+   5        4         1
+   
+ i_pto      y      z
+  1      50.0     50.0
+  2       0.0    100.0
+  3     -50.0     50.0
+  4     -35.35    14.64
+  5       0.0      0.0
+  
+  i_Tr   tipoT   ip    jp     e      yC       zC
+    1      0     1     2       4     0.       50.
+    2      0     2     3       4     0.       50.
+    3      0     3     4       4     0.       50.
+    4      0     4     5       4
+## fin de datos suministrados ##
+   
